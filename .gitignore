@@ -1,0 +1,9 @@
+tmp/
+*.mfs
+*.o
+passthrough
+main
+test
+*.sqlite
+fuse
+__pycache__

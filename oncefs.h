@@ -8,6 +8,10 @@
 
 #define ONCEFS_NAME_MAX_SIZE 256
 
+/**
+ * Main filesystem data structures and API.
+ */
+
 typedef struct oncefs_tag {
     uint64_t seq;
     char operation;
